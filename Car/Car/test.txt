@@ -1,0 +1,21 @@
+
+Bart Simpson
+A
+Ford
+A
+9231
+05.05.2017 0:00:00
+
+Azart Testovich
+A
+Ford
+B
+9651
+05.06.2018 0:00:00
+
+Testov Alexey
+C
+Ford
+C
+7601
+05.06.2018 0:00:00

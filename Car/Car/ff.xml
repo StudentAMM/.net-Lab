@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ArrayOfCarOwner xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CarOwner>
+    <id>0</id>
+    <FullName>Bart</FullName>
+    <TypeLicense>A</TypeLicense>
+    <ModelCar>Ford</ModelCar>
+    <TypeCar>B</TypeCar>
+    <CarNumber>1</CarNumber>
+    <CarDate>2016-05-05T00:00:00</CarDate>
+  </CarOwner>
+  <CarOwner>
+    <id>0</id>
+    <FullName>Testovich</FullName>
+    <TypeLicense>C</TypeLicense>
+    <ModelCar>Ford mustang</ModelCar>
+    <TypeCar>B</TypeCar>
+    <CarNumber>6743</CarNumber>
+    <CarDate>2018-06-05T00:00:00</CarDate>
+  </CarOwner>
+  <CarOwner>
+    <id>0</id>
+    <FullName>Bart Simpson</FullName>
+    <TypeLicense>A</TypeLicense>
+    <ModelCar>Ford</ModelCar>
+    <TypeCar>A</TypeCar>
+    <CarNumber>9231</CarNumber>
+    <CarDate>2017-05-05T00:00:00</CarDate>
+  </CarOwner>
+  <CarOwner>
+    <id>0</id>
+    <FullName>Azart Testovich</FullName>
+    <TypeLicense>D</TypeLicense>
+    <ModelCar>Ford</ModelCar>
+    <TypeCar>D</TypeCar>
+    <CarNumber>9651</CarNumber>
+    <CarDate>2018-06-05T00:00:00</CarDate>
+  </CarOwner>
+  <CarOwner>
+    <id>0</id>
+    <FullName>Testov Alexey</FullName>
+    <TypeLicense>C</TypeLicense>
+    <ModelCar>Ford</ModelCar>
+    <TypeCar>C</TypeCar>
+    <CarNumber>7601</CarNumber>
+    <CarDate>2018-06-05T00:00:00</CarDate>
+  </CarOwner>
+</ArrayOfCarOwner>
